@@ -1,0 +1,46 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 10:
+;
+;   Kumar S, Stecher G, Li M, Knyaz C, Tamura K
+;   MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms
+;   Molecular Biology and Evolution (2018) 35:1547-1549
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+[Application Info]
+
+	Version                                 = 10.1.8
+	Build                                   = 10200331-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = windows
+
+[General Info]
+
+	Data Type                               = nucleotide (non-coding)
+	No. of Taxa                             =        5
+	Data File                               = 'phylogeny/trash/randseq-036.fas'
+	Settings File                           = 'phylogeny/mao/clustal_align_nucleotide.mao'
+	Command Line                            = C:\Program Files\MEGA-X\megacc.exe -a phylogeny/mao/clustal_align_nucleotide.mao -d phylogeny/trash/randseq-036.fas -o phylogeny/trash/randalign-036.meg
+
+[Analysis Settings]
+
+	DNAPWGapOpenPenalty                     = 15.00
+	DNAPWGapExtendPenalty                   = 6.66
+	DNAGapOpenPenalty                       = 15.00
+	DNAGapExtendPenalty                     = 6.66
+	DNAMatrix                               = 
+	TransitionWeight                        = 0.50
+	UseNegativeMatrix                       = True
+	DivergentCutoff                         = 30
+	ResetGaps                               = False
+
+[Analysis Statistics]
+
+	Start Time                              = 4/19/2020 17:12:19
+	End Time                                = 4/19/2020 17:12:26
+	Execution Time                          =    7.017 (seconds)
+	Peak Memory Used(Working Set)           =   41.512 (MB)
