@@ -1,0 +1,63 @@
+Guangdong,Jiangxi,Zhejiang,Jiangsu,Shanghai
+Tadorna ferruginea,Cygnus cygnus,Anser cygnoides,Cygnus olor,Nettapus coromandelianus
+Aix galericulata,Anser cygnoides,Anser anser,Cygnus cygnus,Mareca strepera
+Mareca strepera,Anser fabalis,Tadorna ferruginea,Cygnus columbianus,Spatula clypeata
+Mareca falcata,Anser albifrons,Aix galericulata,Anser cygnoides,Mergus squamatus
+Mareca penelope,Anser anser,Mareca falcata,Anser fabalis,Amaurornis phoenicurus
+Anas platyrhynchos,Aix galericulata,Spatula clypeata,Anser albifrons,Gallinula chloropus
+Spatula clypeata,Anas platyrhynchos,Anas acuta,Anser anser,Gallinago gallinago
+Anas acuta,Spatula clypeata,Spatula querquedula,Tadorna ferruginea,Limosa lapponica
+Spatula querquedula,Anas acuta,Anas crecca,Tadorna tadorna,Numenius minutus
+Sibirionetta formosa,Spatula querquedula,Aythya ferina,Aix galericulata,Numenius phaeopus
+Anas crecca,Sibirionetta formosa,Aythya fuligula,Mareca strepera,Tringa glareola
+Aythya ferina,Anas crecca,Mergellus albellus,Mareca falcata,Xenus cinereus
+Aythya fuligula,Netta rufina,Mergus serrator,Mareca penelope,Actitis hypoleucos
+Aythya marila,Aythya ferina,Grus monacha,Anas platyrhynchos,Tringa brevipes
+Leucogeranus leucogeranus,Aythya nyroca,Amaurornis phoenicurus,Spatula clypeata,Arenaria interpres
+Amaurornis phoenicurus,Mergus squamatus,Gallicrex cinerea,Anas acuta,Limnodromus semipalmatus
+Gallinula chloropus,Mergus merganser,Gallinula chloropus,Sibirionetta formosa,Calidris tenuirostris
+Fulica atra,Antigone vipio,Fulica atra,Anas crecca,Calidris minuta
+Scolopax rusticola,Grus monacha,Gallinago megala,Netta rufina,Calidris acuminata
+Gallinago gallinago,Scolopax rusticola,Gallinago gallinago,Aythya ferina,Calidris alpina
+Limosa limosa,Gallinago stenura,Numenius phaeopus,Aythya nyroca,Calidris ferruginea
+Limosa lapponica,Numenius arquata,Numenius arquata,Aythya fuligula,Calidris pugnax
+Numenius madagascariensis,Tringa totanus,Tringa erythropus,Aythya marila,Hydrophasianus chirurgus
+Tringa erythropus,Tringa nebularia,Tringa totanus,Bucephala clangula,Recurvirostra avosetta
+Tringa totanus,Tringa ochropus,Tringa glareola,Mergellus albellus,Charadrius leschenaultii
+Tringa stagnatilis,Tringa glareola,Xenus cinereus,Mergus serrator,Charadrius veredus
+Tringa ochropus,Actitis hypoleucos,Tringa brevipes,Mergus squamatus,Larus canus
+Tringa glareola,Himantopus himantopus,Arenaria interpres,Mergus merganser,Larus hyperboreus
+Actitis hypoleucos,Recurvirostra avosetta,Limnodromus semipalmatus,Leucogeranus leucogeranus,Larus schistisagus
+Arenaria interpres,Charadrius placidus,Calidris canutus,Antigone vipio,Ichthyaetus ichthyaetus
+Calidris minuta,Larus canus,Calidris acuminata,Grus grus,Hydroprogne caspia
+Calidris ruficollis,Chroicocephalus ridibundus,Calidris ferruginea,Grus monacha,Podiceps auritus
+Calidris temminckii,Chlidonias hybrida,Calidris falcinellus,Grus japonensis,Podiceps nigricollis
+Calidris subminuta,Tachybaptus ruficollis,Ichthyaetus ichthyaetus,Rallus aquaticus,Egretta eulophotes
+Calidris alpina,Ardea cinerea,Chroicocephalus brunnicephalus,Gallinula chloropus,Ardea purpurea
+Calidris ferruginea,Ardea alba,Phalacrocorax carbo,Fulica atra,Ixobrychus sinensis
+Calidris falcinellus,Nycticorax nycticorax,Butorides striata,Scolopax rusticola,Ixobrychus eurhythmus
+Calidris pugnax,Platalea leucorodia,Nycticorax nycticorax,Recurvirostra avosetta,Ixobrychus cinnamomeus
+Rostratula benghalensis,Platalea minor,Platalea leucorodia,Vanellus vanellus,Botaurus stellaris
+Himantopus himantopus,Pelecanus crispus,Platalea minor,Larus canus,
+Recurvirostra avosetta,Ciconia boyciana,,Ichthyaetus ichthyaetus,
+Pluvialis fulva,,,Tachybaptus ruficollis,
+Pluvialis squatarola,,,Podiceps cristatus,
+Charadrius alexandrinus,,,Podiceps nigricollis,
+Charadrius leschenaultii,,,Phalacrocorax carbo,
+Charadrius veredus,,,Ardea cinerea,
+Vanellus vanellus,,,Ardea alba,
+Larus crassirostris,,,Botaurus stellaris,
+Larus canus,,,Platalea leucorodia,
+Larus schistisagus,,,Pelecanus crispus,
+Ichthyaetus ichthyaetus,,,Ciconia nigra,
+Chroicocephalus ridibundus,,,Ciconia boyciana,
+Hydroprogne caspia,,,,
+Sterna hirundo,,,,
+Podiceps cristatus,,,,
+Podiceps nigricollis,,,,
+Phalacrocorax carbo,,,,
+Ardea cinerea,,,,
+Ardea purpurea,,,,
+Ixobrychus eurhythmus,,,,
+Botaurus stellaris,,,,
+Platalea minor,,,,
